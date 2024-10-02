@@ -1,6 +1,6 @@
 ### T20 World Cup 2022 Best 11 Analysis
 
-**Dashboard Link:** https://app.powerbi.com/view?r=eyJrIjoiODY1NTY3MzktNjU5Mi00YjM3LWI5NDItZDYwZTAzMTVlNzJiIiwidCI6Ijc2ZTVlYmRiLWExNzctNDExMS04YjA4LWU2ZThmMTAzM2M3NCJ9
+[Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiODY1NTY3MzktNjU5Mi00YjM3LWI5NDItZDYwZTAzMTVlNzJiIiwidCI6Ijc2ZTVlYmRiLWExNzctNDExMS04YjA4LWU2ZThmMTAzM2M3NCJ9)
 
 **Description:**
 Developed a comprehensive PowerBI dashboard to analyze and visualize the performance of the best 11 players in the T20 World Cup 2022. The dashboard includes:
